@@ -37,7 +37,7 @@ To run this script, you need to have the following installed:
 
 2. Run the script using Python:
    ```
-   python your_script_name.py
+   python __init__.py
    ```
 3. The script will navigate to the specified URL and begin downloading images, saving them in appropriately named folders according to the ePaper edition.
 
